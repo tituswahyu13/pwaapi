@@ -1,0 +1,23 @@
+{
+  "products:   
+[{"id":1,"name":"Parakeet, rose-ringed","category":"Mauv"},
+{"id":2,"name":"Screamer, southern","category":"Turquoise"},
+{"id":3,"name":"Porcupine, crested","category":"Purple"},
+{"id":4,"name":"Zebra, common","category":"Mauv"},
+{"id":5,"name":"Canadian river otter","category":"Indigo"},
+{"id":6,"name":"Baleen whale","category":"Green"},
+{"id":7,"name":"Amazon parrot (unidentified)","category":"Indigo"},
+{"id":8,"name":"Australian masked owl","category":"Purple"},
+{"id":9,"name":"Wombat, southern hairy-nosed","category":"Pink"},
+{"id":10,"name":"Sandpiper, spotted wood","category":"Red"},
+{"id":11,"name":"Baboon, gelada","category":"Orange"},
+{"id":12,"name":"Bear, grizzly","category":"Puce"},
+{"id":13,"name":"Cat, miner's","category":"Pink"},
+{"id":14,"name":"Colobus, black and white","category":"Aquamarine"},
+{"id":15,"name":"Flamingo, lesser","category":"Green"},
+{"id":16,"name":"Cat, jungle","category":"Puce"},
+{"id":17,"name":"Weaver, lesser masked","category":"Yellow"},
+{"id":18,"name":"Eurasian hoopoe","category":"Indigo"},
+{"id":19,"name":"Heron, giant","category":"Orange"},
+{"id":20,"name":"Toucan, white-throated","category":"Crimson"}]
+}
