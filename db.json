@@ -1,6 +1,6 @@
 {
-  "products":   
-[{"id":1,"name":"Parakeet, rose-ringed","category":"Mauv"},
+  "products":   [
+{"id":1,"name":"Parakeet, rose-ringed","category":"Mauv"},
 {"id":2,"name":"Screamer, southern","category":"Turquoise"},
 {"id":3,"name":"Porcupine, crested","category":"Purple"},
 {"id":4,"name":"Zebra, common","category":"Mauv"},
@@ -19,5 +19,6 @@
 {"id":17,"name":"Weaver, lesser masked","category":"Yellow"},
 {"id":18,"name":"Eurasian hoopoe","category":"Indigo"},
 {"id":19,"name":"Heron, giant","category":"Orange"},
-{"id":20,"name":"Toucan, white-throated","category":"Crimson"}]
+{"id":20,"name":"Toucan, white-throated","category":"Crimson"}
+  ]
 }
